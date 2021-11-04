@@ -14,7 +14,7 @@ If you use this dataset for your research, please cite the paper as follows:
 
 ## Dataset
 
-The [Tip of the Tongue (ToT) dataset](https://github.com/microsoft/Tip-of-the-Tongue-Known-Item-Retrieval-Dataset-for-Movie-Identification/blob/main/ToT.txt) is comprised of 758 question/answer pairs scraped from the website iRememberThisMovie.com between 2013 and 2018.
+The [Tip of the Tongue (ToT) dataset](https://github.com/microsoft/Tip-of-the-Tongue-Known-Item-Retrieval-Dataset-for-Movie-Identification/blob/main/ToT.txt) is comprised of 1000 question/answer pairs scraped from the website iRememberThisMovie.com between 2013 and 2018.
 
 These question/answer pairs consist of REQUESTS, in which a user of the website describes a movie they have seen but whose title they have forgotten, and ANSWERS, which consist of different solutions to the request from other users of the website. We also attach Wikipedia/IMDB links for the films.  
 
